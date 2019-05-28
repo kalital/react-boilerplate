@@ -9,9 +9,13 @@
 }
 
 .page-header__title {
-  font-weight: 300;
-  margin: 0;
-  span {
-    font-weight: 700;
-  }
+    font-weight: 300; 
+    margin: 0;
+
+    span {
+        font-weight: bold;
+    }
+}
+.button_color {
+   background: fade-out(#2d7ef7, .2);
 }
